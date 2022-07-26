@@ -75,7 +75,7 @@ $ pip install --upgrade tensorflow
 ```
 
 ### General Usage
-python demo.py
+python demo.py (to display the results of the similarity index between a sentence and 10 of its paraphrased sentences)
 
 #### Results
 Results are in the ./result dir
