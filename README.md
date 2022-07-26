@@ -75,9 +75,7 @@ $ pip install --upgrade tensorflow
 ```
 
 ### General Usage
-
-cd python-extract-human-names-spacy
-python extract_name.py
+python demo.py
 
 #### Results
-Results are in the python-extract-human-names-spacy/result (subfolder)
+Results are in the ./result dir
