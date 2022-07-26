@@ -1,0 +1,11 @@
+Original Text: Are you interested in Cat, it can help you be rich in a week.
+
+Words Overlapping: 1.0 | Sentence Meaning: 1.0 | Extracted: Are you interested in Cat, it can help you be rich in a week. 
+Words Overlapping: 0.93 | Sentence Meaning: 1.0 | Extracted: Are you interested in Cat, it can help you become rich in a week. 
+Words Overlapping: 0.93 | Sentence Meaning: 1.0 | Extracted: Are you interested in Cat, it can help you be rich within a week. 
+Words Overlapping: 0.9 | Sentence Meaning: 1.0 | Extracted: Are you interested in Cat, it can help you to become rich in a week. 
+Words Overlapping: 0.83 | Sentence Meaning: 1.0 | Extracted: Are you interested in Cat, it can help you in a week to be rich. 
+Words Overlapping: 0.62 | Sentence Meaning: 0.95 | Extracted: Do you have interest in cat, it can help you in a week be rich. 
+Words Overlapping: 0.86 | Sentence Meaning: 0.88 | Extracted: Are you interested in Cat? It can help you be rich in a week. 
+Words Overlapping: 0.76 | Sentence Meaning: 0.87 | Extracted: Are you interested in Cat? It can help you to be wealthy in a week. 
+Words Overlapping: 0.67 | Sentence Meaning: 0.86 | Extracted: Interested in Cat? It can help you to be rich in a week. 

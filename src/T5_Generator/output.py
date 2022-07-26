@@ -34,6 +34,6 @@ class Generate_Paraphrase:
             result.add(line)
         return list(result)
 
-if __name__=="__main__":
-    Generator = Generate_Paraphrase()
-    Generator.generate("My name is Jeffrey Liu")
+# if __name__=="__main__":
+#     Generator = Generate_Paraphrase()
+#     Generator.generate("My name is Jeffrey Liu")
