@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "nlp",
+        "spacy"
+    ],
+    "python.analysis.extraPaths": [
+        "./Paraphrase-Generator"
+    ]
+}
