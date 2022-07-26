@@ -1,11 +1,11 @@
-## Overview 
+# Overview 
 A Module can be implemented to 
  1. extract name from a sentence
  2. extract phone number from a conversation (US only)
  3. Compare the similarity of two sentences based on their words matching and rank them based on their similarity in terms of meaning
     1. Utilize the Paraphrase Generator (T5) to generate a fixed number of similar sentences for testing purposes
 
-# Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ### Prerequisites
@@ -77,8 +77,8 @@ $ pip install --upgrade tensorflow
 ### General Usage
 ```
 python demo.py    
-```
+```   
 (to display the results of the similarity index between a sentence and 10 of its paraphrased sentences)
 
-#### Results
+### Results
 Results are in the ./result/next.txt 
